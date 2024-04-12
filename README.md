@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![Simulator Screen Shot - iPhone SE (3rd generation) - 2024-03-29 at 12 44 01](https://github.com/ambegavenitinbalaji/flash_chat_flutter/assets/86120830/63cc5d6a-4667-435f-8589-cdf3da6e1eb3)
+
+![Simulator Screen Shot - iPhone SE (3rd generation) - 2024-03-29 at 12 53 16](https://github.com/ambegavenitinbalaji/flash_chat_flutter/assets/86120830/fa851a95-b2d7-4b0b-bcd2-7ee9072261ea)
